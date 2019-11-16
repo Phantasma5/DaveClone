@@ -1,0 +1,1280 @@
+...Logging started...
+0.0484: Server Started
+1.5233017: RespondedAwaitingApproval -6728269292270643842 127.0.0.1
+1.5389931: RespondedConnect -6728269292270643842 127.0.0.1
+1.5434013: Connected -6728269292270643842 127.0.0.1
+1.5507345: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartVoIP( 1 )
+
+1.5597768: AreaChange -6728269292270643842 127.0.0.1
+1.6052253: Instantiate -6728269292270643842 127.0.0.1
+	NetworkId: 1
+	Prefab: Player
+	Loc: 0, 0, 0
+	Orientation: 0, 0, 0, 1
+1.6146078: RPC ServerOnly NetSyncId: -1 Function: SetFollowsClient( 1, True )
+
+1.6263902: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( True )
+
+1.7315644: LiteSyncUpdate -6728269292270643842 127.0.0.1
+2.0048545: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+2.2591482: SyncUpdate -6728269292270643842 127.0.0.1
+2.3795041: SyncUpdate -6728269292270643842 127.0.0.1
+2.4815154: SyncUpdate -6728269292270643842 127.0.0.1
+2.6005184: SyncUpdate -6728269292270643842 127.0.0.1
+2.6858661: SyncUpdate -6728269292270643842 127.0.0.1
+2.7883208: SyncUpdate -6728269292270643842 127.0.0.1
+2.9101798: SyncUpdate -6728269292270643842 127.0.0.1
+3.0125486: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+3.0187001: SyncUpdate -6728269292270643842 127.0.0.1
+3.115669: SyncUpdate -6728269292270643842 127.0.0.1
+3.2352332: SyncUpdate -6728269292270643842 127.0.0.1
+4.0185294: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+5.0060712: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+6.0104297: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+6.8457115: RespondedAwaitingApproval -3781980883134412505 127.0.0.1
+6.8635488: RespondedConnect -3781980883134412505 127.0.0.1
+6.8694437: Connected -3781980883134412505 127.0.0.1
+6.8757156: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartVoIP( 2 )
+
+6.8823878: AreaChange -3781980883134412505 127.0.0.1
+6.888838: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: 1 Function: SetItState( True )
+
+6.9151007: Instantiate -3781980883134412505 127.0.0.1
+	NetworkId: 502
+	Prefab: Player
+	Loc: 0, 0, 0
+	Orientation: 0, 0, 0, 1
+6.9218183: RPC ServerOnly NetSyncId: -1 Function: SetFollowsClient( 502, True )
+
+7.0197676: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+7.0280229: LiteSyncUpdate -3781980883134412505 127.0.0.1
+7.0729744: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+8.0095989: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+8.0774086: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+9.0144817: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+9.0658266: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+10.0210813: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+10.0723498: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+11.0244837: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+11.0751394: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+12.0105849: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+12.0698784: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+13.0057364: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+13.0736237: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+14.0268505: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+14.0779182: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+15.0125805: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+15.0806446: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+15.9996161: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+16.0712006: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+17.0070842: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+17.0582264: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+18.0124341: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+18.0639094: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+19.00325: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+19.0711998: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+20.0067466: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+20.0578608: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+21.0100137: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+21.0779044: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+22.0184528: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+22.0609876: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+23.0032058: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+23.0710464: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+24.0080432: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+24.0756243: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+25.0147719: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+25.0831572: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+26.0185245: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+26.0694937: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+27.0067485: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+27.0746831: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+28.0100937: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+28.0784151: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+29.0136254: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+29.0821182: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+30.0027241: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+30.0710238: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+31.0243721: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+31.0753449: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+32.0123706: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+32.0659569: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+33.0215257: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+33.0552145: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+34.0250532: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+34.0757898: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+35.0134317: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+35.0813857: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+36.001121: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+36.0703683: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+37.0058552: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+37.0736999: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+38.0121184: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+38.0801216: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+38.8113781: SyncUpdate -3781980883134412505 127.0.0.1
+38.9140038: SyncUpdate -3781980883134412505 127.0.0.1
+38.9990725: SyncUpdate -3781980883134412505 127.0.0.1
+39.0159268: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+39.0672162: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+39.117956: SyncUpdate -3781980883134412505 127.0.0.1
+39.2036295: SyncUpdate -3781980883134412505 127.0.0.1
+39.3104339: SyncUpdate -3781980883134412505 127.0.0.1
+39.4123272: SyncUpdate -3781980883134412505 127.0.0.1
+39.5152088: SyncUpdate -3781980883134412505 127.0.0.1
+39.6173334: SyncUpdate -3781980883134412505 127.0.0.1
+39.7214676: SyncUpdate -3781980883134412505 127.0.0.1
+39.8235575: SyncUpdate -3781980883134412505 127.0.0.1
+40.0115756: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+40.028598: SyncUpdate -3781980883134412505 127.0.0.1
+40.0454966: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( False )
+
+40.0538803: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( True )
+
+40.0651577: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+40.1314713: SyncUpdate -3781980883134412505 127.0.0.1
+40.2334379: SyncUpdate -3781980883134412505 127.0.0.1
+40.3354124: SyncUpdate -3781980883134412505 127.0.0.1
+40.4381292: SyncUpdate -3781980883134412505 127.0.0.1
+40.5402995: SyncUpdate -3781980883134412505 127.0.0.1
+40.6424932: SyncUpdate -3781980883134412505 127.0.0.1
+40.7442033: SyncUpdate -3781980883134412505 127.0.0.1
+40.8463652: SyncUpdate -3781980883134412505 127.0.0.1
+40.949095: SyncUpdate -3781980883134412505 127.0.0.1
+41.0171558: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+41.0509638: SyncUpdate -3781980883134412505 127.0.0.1
+41.0684411: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+41.153018: SyncUpdate -3781980883134412505 127.0.0.1
+41.2547622: SyncUpdate -3781980883134412505 127.0.0.1
+41.3572405: SyncUpdate -3781980883134412505 127.0.0.1
+41.4589215: SyncUpdate -3781980883134412505 127.0.0.1
+41.5610737: SyncUpdate -3781980883134412505 127.0.0.1
+41.5779997: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( False )
+
+41.5941915: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( True )
+
+41.6583378: SyncUpdate -3781980883134412505 127.0.0.1
+41.7618313: SyncUpdate -3781980883134412505 127.0.0.1
+41.863887: SyncUpdate -3781980883134412505 127.0.0.1
+41.9658486: SyncUpdate -3781980883134412505 127.0.0.1
+42.0170228: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+42.0681128: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+42.0758115: SyncUpdate -3781980883134412505 127.0.0.1
+42.17349: SyncUpdate -3781980883134412505 127.0.0.1
+42.2750261: SyncUpdate -3781980883134412505 127.0.0.1
+42.3772994: SyncUpdate -3781980883134412505 127.0.0.1
+42.4793171: SyncUpdate -3781980883134412505 127.0.0.1
+42.5811429: SyncUpdate -3781980883134412505 127.0.0.1
+42.5980172: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( False )
+
+42.6061864: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( True )
+
+42.6853543: SyncUpdate -3781980883134412505 127.0.0.1
+42.7872601: SyncUpdate -3781980883134412505 127.0.0.1
+42.8893678: SyncUpdate -3781980883134412505 127.0.0.1
+42.9913696: SyncUpdate -3781980883134412505 127.0.0.1
+43.0085734: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+43.0759101: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+43.0933584: SyncUpdate -3781980883134412505 127.0.0.1
+43.1950612: SyncUpdate -3781980883134412505 127.0.0.1
+43.2974405: SyncUpdate -3781980883134412505 127.0.0.1
+43.3997162: SyncUpdate -3781980883134412505 127.0.0.1
+43.5017971: SyncUpdate -3781980883134412505 127.0.0.1
+43.6036866: SyncUpdate -3781980883134412505 127.0.0.1
+43.7056731: SyncUpdate -3781980883134412505 127.0.0.1
+43.8087433: SyncUpdate -3781980883134412505 127.0.0.1
+43.9107011: SyncUpdate -3781980883134412505 127.0.0.1
+44.0130421: SyncUpdate -3781980883134412505 127.0.0.1
+44.019672: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+44.0664011: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+44.117857: SyncUpdate -3781980883134412505 127.0.0.1
+44.2198981: SyncUpdate -3781980883134412505 127.0.0.1
+44.3217736: SyncUpdate -3781980883134412505 127.0.0.1
+44.4241235: SyncUpdate -3781980883134412505 127.0.0.1
+44.5263273: SyncUpdate -3781980883134412505 127.0.0.1
+44.6286048: SyncUpdate -3781980883134412505 127.0.0.1
+44.7320698: SyncUpdate -3781980883134412505 127.0.0.1
+44.7491352: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( False )
+
+44.7588937: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( True )
+
+44.8252373: SyncUpdate -3781980883134412505 127.0.0.1
+44.9321172: SyncUpdate -3781980883134412505 127.0.0.1
+45.0174136: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+45.0347422: SyncUpdate -3781980883134412505 127.0.0.1
+45.069139: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+45.1370337: SyncUpdate -3781980883134412505 127.0.0.1
+45.2390706: SyncUpdate -3781980883134412505 127.0.0.1
+45.3414967: SyncUpdate -3781980883134412505 127.0.0.1
+45.4439492: SyncUpdate -3781980883134412505 127.0.0.1
+45.545196: SyncUpdate -3781980883134412505 127.0.0.1
+45.6474856: SyncUpdate -3781980883134412505 127.0.0.1
+45.7504574: SyncUpdate -3781980883134412505 127.0.0.1
+45.8533827: SyncUpdate -3781980883134412505 127.0.0.1
+45.9553279: SyncUpdate -3781980883134412505 127.0.0.1
+46.0065961: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+46.0579286: SyncUpdate -3781980883134412505 127.0.0.1
+46.0795818: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+46.1506652: SyncUpdate -3781980883134412505 127.0.0.1
+46.2527101: SyncUpdate -3781980883134412505 127.0.0.1
+46.8644934: SyncUpdate -3781980883134412505 127.0.0.1
+47.0177215: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+47.0688221: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+47.2395295: SyncUpdate -6728269292270643842 127.0.0.1
+47.3415872: SyncUpdate -6728269292270643842 127.0.0.1
+47.443545: SyncUpdate -6728269292270643842 127.0.0.1
+47.5635314: SyncUpdate -6728269292270643842 127.0.0.1
+47.665631: SyncUpdate -6728269292270643842 127.0.0.1
+47.7846969: SyncUpdate -6728269292270643842 127.0.0.1
+47.8875466: SyncUpdate -6728269292270643842 127.0.0.1
+48.0065921: SyncUpdate -6728269292270643842 127.0.0.1
+48.0236566: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+48.0744598: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+48.1086066: SyncUpdate -6728269292270643842 127.0.0.1
+48.2280034: SyncUpdate -6728269292270643842 127.0.0.1
+48.3303035: SyncUpdate -6728269292270643842 127.0.0.1
+48.4318589: SyncUpdate -6728269292270643842 127.0.0.1
+48.5334528: SyncUpdate -6728269292270643842 127.0.0.1
+48.6356423: SyncUpdate -6728269292270643842 127.0.0.1
+48.754839: SyncUpdate -6728269292270643842 127.0.0.1
+48.8573203: SyncUpdate -6728269292270643842 127.0.0.1
+48.9590148: SyncUpdate -6728269292270643842 127.0.0.1
+49.0102029: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+49.0617107: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+49.0780926: SyncUpdate -6728269292270643842 127.0.0.1
+49.1806075: SyncUpdate -6728269292270643842 127.0.0.1
+49.2821243: SyncUpdate -6728269292270643842 127.0.0.1
+49.4013378: SyncUpdate -6728269292270643842 127.0.0.1
+49.5201573: SyncUpdate -6728269292270643842 127.0.0.1
+49.6222576: SyncUpdate -6728269292270643842 127.0.0.1
+49.7243799: SyncUpdate -6728269292270643842 127.0.0.1
+49.8264196: SyncUpdate -6728269292270643842 127.0.0.1
+49.9284634: SyncUpdate -6728269292270643842 127.0.0.1
+50.0133902: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+50.0304659: SyncUpdate -6728269292270643842 127.0.0.1
+50.0648858: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+50.1494131: SyncUpdate -6728269292270643842 127.0.0.1
+50.2513375: SyncUpdate -6728269292270643842 127.0.0.1
+50.3583519: SyncUpdate -6728269292270643842 127.0.0.1
+50.443533: SyncUpdate -6728269292270643842 127.0.0.1
+50.5622616: SyncUpdate -6728269292270643842 127.0.0.1
+50.6646311: SyncUpdate -6728269292270643842 127.0.0.1
+50.7837143: SyncUpdate -6728269292270643842 127.0.0.1
+50.904206: SyncUpdate -6728269292270643842 127.0.0.1
+51.0077257: SyncUpdate -6728269292270643842 127.0.0.1
+51.0252918: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+51.0758546: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+51.1099192: SyncUpdate -6728269292270643842 127.0.0.1
+51.2120634: SyncUpdate -6728269292270643842 127.0.0.1
+51.3136172: SyncUpdate -6728269292270643842 127.0.0.1
+51.433089: SyncUpdate -6728269292270643842 127.0.0.1
+51.5524187: SyncUpdate -6728269292270643842 127.0.0.1
+51.6540365: SyncUpdate -6728269292270643842 127.0.0.1
+51.7735077: SyncUpdate -6728269292270643842 127.0.0.1
+51.8760043: SyncUpdate -6728269292270643842 127.0.0.1
+51.9607182: SyncUpdate -6728269292270643842 127.0.0.1
+52.0119675: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+52.0629953: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+52.07106: SyncUpdate -6728269292270643842 127.0.0.1
+52.1845031: SyncUpdate -6728269292270643842 127.0.0.1
+52.293379: SyncUpdate -6728269292270643842 127.0.0.1
+52.3868281: SyncUpdate -6728269292270643842 127.0.0.1
+52.5062899: SyncUpdate -6728269292270643842 127.0.0.1
+52.6081599: SyncUpdate -6728269292270643842 127.0.0.1
+52.7272084: SyncUpdate -6728269292270643842 127.0.0.1
+52.8296705: SyncUpdate -6728269292270643842 127.0.0.1
+52.9316087: SyncUpdate -6728269292270643842 127.0.0.1
+53.0160509: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+53.0333496: SyncUpdate -6728269292270643842 127.0.0.1
+53.0679473: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+53.1530164: SyncUpdate -6728269292270643842 127.0.0.1
+53.254492: SyncUpdate -6728269292270643842 127.0.0.1
+53.373561: SyncUpdate -6728269292270643842 127.0.0.1
+53.4923217: SyncUpdate -6728269292270643842 127.0.0.1
+53.5943272: SyncUpdate -6728269292270643842 127.0.0.1
+53.6796169: SyncUpdate -6728269292270643842 127.0.0.1
+53.7988616: SyncUpdate -6728269292270643842 127.0.0.1
+53.9015098: SyncUpdate -6728269292270643842 127.0.0.1
+54.0032498: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+54.011384: SyncUpdate -6728269292270643842 127.0.0.1
+54.059366: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+54.1279855: SyncUpdate -6728269292270643842 127.0.0.1
+54.2122662: SyncUpdate -6728269292270643842 127.0.0.1
+54.3144972: SyncUpdate -6728269292270643842 127.0.0.1
+54.4340229: SyncUpdate -6728269292270643842 127.0.0.1
+54.5526674: SyncUpdate -6728269292270643842 127.0.0.1
+54.6716079: SyncUpdate -6728269292270643842 127.0.0.1
+54.6886875: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( False )
+
+54.6956817: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( True )
+
+54.793071: SyncUpdate -6728269292270643842 127.0.0.1
+54.912554: SyncUpdate -6728269292270643842 127.0.0.1
+54.9988295: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+55.0064328: SyncUpdate -6728269292270643842 127.0.0.1
+55.0697067: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+55.1217762: SyncUpdate -6728269292270643842 127.0.0.1
+55.2419518: SyncUpdate -6728269292270643842 127.0.0.1
+55.3438737: SyncUpdate -6728269292270643842 127.0.0.1
+55.4630263: SyncUpdate -6728269292270643842 127.0.0.1
+55.548157: SyncUpdate -6728269292270643842 127.0.0.1
+55.6500284: SyncUpdate -6728269292270643842 127.0.0.1
+55.7693464: SyncUpdate -6728269292270643842 127.0.0.1
+55.8901767: SyncUpdate -6728269292270643842 127.0.0.1
+55.9919724: SyncUpdate -6728269292270643842 127.0.0.1
+56.0093976: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+56.0794753: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+56.1130438: SyncUpdate -6728269292270643842 127.0.0.1
+56.204934: SyncUpdate -6728269292270643842 127.0.0.1
+56.3239115: SyncUpdate -6728269292270643842 127.0.0.1
+56.442983: SyncUpdate -6728269292270643842 127.0.0.1
+56.5449721: SyncUpdate -6728269292270643842 127.0.0.1
+56.6639119: SyncUpdate -6728269292270643842 127.0.0.1
+56.766047: SyncUpdate -6728269292270643842 127.0.0.1
+56.8679279: SyncUpdate -6728269292270643842 127.0.0.1
+56.9704301: SyncUpdate -6728269292270643842 127.0.0.1
+57.0047941: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+57.0722928: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+57.0891571: SyncUpdate -6728269292270643842 127.0.0.1
+57.2081985: SyncUpdate -6728269292270643842 127.0.0.1
+57.3282538: SyncUpdate -6728269292270643842 127.0.0.1
+57.4313232: SyncUpdate -6728269292270643842 127.0.0.1
+57.5332784: SyncUpdate -6728269292270643842 127.0.0.1
+57.6524625: SyncUpdate -6728269292270643842 127.0.0.1
+57.7541647: SyncUpdate -6728269292270643842 127.0.0.1
+57.8732591: SyncUpdate -6728269292270643842 127.0.0.1
+57.8903875: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 502 Function: SetItState( False )
+
+57.8964285: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: 1 Function: SetItState( True )
+
+57.9806415: SyncUpdate -6728269292270643842 127.0.0.1
+58.0142907: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+58.0653671: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+58.0991993: SyncUpdate -6728269292270643842 127.0.0.1
+58.2016278: SyncUpdate -6728269292270643842 127.0.0.1
+58.3034688: SyncUpdate -6728269292270643842 127.0.0.1
+58.4054399: SyncUpdate -6728269292270643842 127.0.0.1
+58.4982067: SyncUpdate -6728269292270643842 127.0.0.1
+58.6002939: SyncUpdate -6728269292270643842 127.0.0.1
+58.719391: SyncUpdate -6728269292270643842 127.0.0.1
+58.8400719: SyncUpdate -6728269292270643842 127.0.0.1
+58.9593381: SyncUpdate -6728269292270643842 127.0.0.1
+58.999885: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+59.0677655: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+59.0744775: SyncUpdate -6728269292270643842 127.0.0.1
+59.1721972: SyncUpdate -6728269292270643842 127.0.0.1
+59.2913268: SyncUpdate -6728269292270643842 127.0.0.1
+59.4103925: SyncUpdate -6728269292270643842 127.0.0.1
+59.5124985: SyncUpdate -6728269292270643842 127.0.0.1
+59.632865: SyncUpdate -6728269292270643842 127.0.0.1
+60.0080727: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+60.0769596: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+61.0132765: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+61.0817261: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+62.0185856: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+62.0697475: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+63.0175164: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+63.0691961: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+64.0037357: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+64.0717227: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+65.0162677: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+65.0676433: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+66.019908: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+66.07237: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+67.0220714: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+67.072774: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+68.0117412: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+68.0630879: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+69.0146668: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+69.0826549: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+70.0196634: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+70.0706861: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+70.4455121: SyncUpdate -6728269292270643842 127.0.0.1
+70.5647317: SyncUpdate -6728269292270643842 127.0.0.1
+70.6831049: SyncUpdate -6728269292270643842 127.0.0.1
+70.7862099: SyncUpdate -6728269292270643842 127.0.0.1
+70.887961: SyncUpdate -6728269292270643842 127.0.0.1
+70.9901605: SyncUpdate -6728269292270643842 127.0.0.1
+71.0243352: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+71.0756926: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+71.0921819: SyncUpdate -6728269292270643842 127.0.0.1
+71.1945679: SyncUpdate -6728269292270643842 127.0.0.1
+71.2970567: SyncUpdate -6728269292270643842 127.0.0.1
+71.4203291: SyncUpdate -6728269292270643842 127.0.0.1
+71.5368046: SyncUpdate -6728269292270643842 127.0.0.1
+71.6555212: SyncUpdate -6728269292270643842 127.0.0.1
+71.7576278: SyncUpdate -6728269292270643842 127.0.0.1
+71.8597391: SyncUpdate -6728269292270643842 127.0.0.1
+71.9618279: SyncUpdate -6728269292270643842 127.0.0.1
+72.013302: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+72.0639537: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+72.0806842: SyncUpdate -6728269292270643842 127.0.0.1
+72.1829283: SyncUpdate -6728269292270643842 127.0.0.1
+72.3021262: SyncUpdate -6728269292270643842 127.0.0.1
+72.4033342: SyncUpdate -6728269292270643842 127.0.0.1
+72.5057457: SyncUpdate -6728269292270643842 127.0.0.1
+72.6246768: SyncUpdate -6728269292270643842 127.0.0.1
+72.7435731: SyncUpdate -6728269292270643842 127.0.0.1
+72.8285978: SyncUpdate -6728269292270643842 127.0.0.1
+72.9476734: SyncUpdate -6728269292270643842 127.0.0.1
+73.0183913: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+73.0524105: SyncUpdate -6728269292270643842 127.0.0.1
+73.0692637: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+73.154495: SyncUpdate -6728269292270643842 127.0.0.1
+73.2565142: SyncUpdate -6728269292270643842 127.0.0.1
+73.3468414: SyncUpdate -6728269292270643842 127.0.0.1
+73.4490251: SyncUpdate -6728269292270643842 127.0.0.1
+73.5678818: SyncUpdate -6728269292270643842 127.0.0.1
+73.6692987: SyncUpdate -6728269292270643842 127.0.0.1
+73.7887057: SyncUpdate -6728269292270643842 127.0.0.1
+73.9075457: SyncUpdate -6728269292270643842 127.0.0.1
+74.0093574: SyncUpdate -6728269292270643842 127.0.0.1
+74.0267426: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+74.0611305: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+74.1114805: SyncUpdate -6728269292270643842 127.0.0.1
+74.196724: SyncUpdate -6728269292270643842 127.0.0.1
+74.2988441: SyncUpdate -6728269292270643842 127.0.0.1
+74.4181673: SyncUpdate -6728269292270643842 127.0.0.1
+74.5221566: SyncUpdate -6728269292270643842 127.0.0.1
+74.6246433: SyncUpdate -6728269292270643842 127.0.0.1
+74.7438066: SyncUpdate -6728269292270643842 127.0.0.1
+74.8456325: SyncUpdate -6728269292270643842 127.0.0.1
+74.9475593: SyncUpdate -6728269292270643842 127.0.0.1
+74.9991304: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+75.0493639: SyncUpdate -6728269292270643842 127.0.0.1
+75.0670524: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+75.1686476: SyncUpdate -6728269292270643842 127.0.0.1
+75.2715391: SyncUpdate -6728269292270643842 127.0.0.1
+75.3904938: SyncUpdate -6728269292270643842 127.0.0.1
+75.5092765: SyncUpdate -6728269292270643842 127.0.0.1
+75.6294357: SyncUpdate -6728269292270643842 127.0.0.1
+75.7145462: SyncUpdate -6728269292270643842 127.0.0.1
+75.8337497: SyncUpdate -6728269292270643842 127.0.0.1
+75.935836: SyncUpdate -6728269292270643842 127.0.0.1
+76.0036367: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+76.0545875: SyncUpdate -6728269292270643842 127.0.0.1
+76.0712287: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+76.1568786: SyncUpdate -6728269292270643842 127.0.0.1
+76.2754636: SyncUpdate -6728269292270643842 127.0.0.1
+76.3837205: SyncUpdate -6728269292270643842 127.0.0.1
+76.4857977: SyncUpdate -6728269292270643842 127.0.0.1
+76.6050314: SyncUpdate -6728269292270643842 127.0.0.1
+76.7069395: SyncUpdate -6728269292270643842 127.0.0.1
+76.8267463: SyncUpdate -6728269292270643842 127.0.0.1
+76.9289972: SyncUpdate -6728269292270643842 127.0.0.1
+77.0138986: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+77.0478589: SyncUpdate -6728269292270643842 127.0.0.1
+77.0820564: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+77.1337298: SyncUpdate -6728269292270643842 127.0.0.1
+77.2517615: SyncUpdate -6728269292270643842 127.0.0.1
+77.35398: SyncUpdate -6728269292270643842 127.0.0.1
+77.4737354: SyncUpdate -6728269292270643842 127.0.0.1
+77.5931531: SyncUpdate -6728269292270643842 127.0.0.1
+77.7121484: SyncUpdate -6728269292270643842 127.0.0.1
+77.814897: SyncUpdate -6728269292270643842 127.0.0.1
+77.9002085: SyncUpdate -6728269292270643842 127.0.0.1
+78.0031622: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+78.0199595: SyncUpdate -6728269292270643842 127.0.0.1
+78.0704505: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+78.1231098: SyncUpdate -6728269292270643842 127.0.0.1
+78.2436257: SyncUpdate -6728269292270643842 127.0.0.1
+78.345717: SyncUpdate -6728269292270643842 127.0.0.1
+78.4650908: SyncUpdate -6728269292270643842 127.0.0.1
+78.5668283: SyncUpdate -6728269292270643842 127.0.0.1
+78.6691486: SyncUpdate -6728269292270643842 127.0.0.1
+78.7705892: SyncUpdate -6728269292270643842 127.0.0.1
+78.8896517: SyncUpdate -6728269292270643842 127.0.0.1
+79.0096117: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+79.0198134: SyncUpdate -6728269292270643842 127.0.0.1
+79.0693636: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+79.1065412: SyncUpdate -6728269292270643842 127.0.0.1
+79.209519: SyncUpdate -6728269292270643842 127.0.0.1
+79.328737: SyncUpdate -6728269292270643842 127.0.0.1
+79.4477339: SyncUpdate -6728269292270643842 127.0.0.1
+79.5339079: SyncUpdate -6728269292270643842 127.0.0.1
+79.6365081: SyncUpdate -6728269292270643842 127.0.0.1
+79.7549979: SyncUpdate -6728269292270643842 127.0.0.1
+79.8568423: SyncUpdate -6728269292270643842 127.0.0.1
+79.9589372: SyncUpdate -6728269292270643842 127.0.0.1
+80.00968: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+80.0777979: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+80.0882127: SyncUpdate -6728269292270643842 127.0.0.1
+80.1871339: SyncUpdate -6728269292270643842 127.0.0.1
+80.2890535: SyncUpdate -6728269292270643842 127.0.0.1
+80.3908515: SyncUpdate -6728269292270643842 127.0.0.1
+80.4929445: SyncUpdate -6728269292270643842 127.0.0.1
+80.594936: SyncUpdate -6728269292270643842 127.0.0.1
+80.7138546: SyncUpdate -6728269292270643842 127.0.0.1
+80.8333262: SyncUpdate -6728269292270643842 127.0.0.1
+80.9519354: SyncUpdate -6728269292270643842 127.0.0.1
+81.020781: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+81.0546671: SyncUpdate -6728269292270643842 127.0.0.1
+81.0709294: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+81.1563692: SyncUpdate -6728269292270643842 127.0.0.1
+81.2756602: SyncUpdate -6728269292270643842 127.0.0.1
+81.3946668: SyncUpdate -6728269292270643842 127.0.0.1
+81.4960116: SyncUpdate -6728269292270643842 127.0.0.1
+81.5980379: SyncUpdate -6728269292270643842 127.0.0.1
+81.7290752: SyncUpdate -6728269292270643842 127.0.0.1
+81.8307728: SyncUpdate -6728269292270643842 127.0.0.1
+81.9509577: SyncUpdate -6728269292270643842 127.0.0.1
+82.0019655: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+82.0530159: SyncUpdate -6728269292270643842 127.0.0.1
+82.0698767: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+82.1558978: SyncUpdate -6728269292270643842 127.0.0.1
+82.2743014: SyncUpdate -6728269292270643842 127.0.0.1
+82.3759773: SyncUpdate -6728269292270643842 127.0.0.1
+82.4980144: SyncUpdate -6728269292270643842 127.0.0.1
+82.6078809: SyncUpdate -6728269292270643842 127.0.0.1
+82.7139572: SyncUpdate -6728269292270643842 127.0.0.1
+82.8160714: SyncUpdate -6728269292270643842 127.0.0.1
+82.9352718: SyncUpdate -6728269292270643842 127.0.0.1
+83.003137: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+83.0371155: SyncUpdate -6728269292270643842 127.0.0.1
+83.0708789: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+83.1393865: SyncUpdate -6728269292270643842 127.0.0.1
+83.2582185: SyncUpdate -6728269292270643842 127.0.0.1
+83.378051: SyncUpdate -6728269292270643842 127.0.0.1
+83.4971537: SyncUpdate -6728269292270643842 127.0.0.1
+83.5991117: SyncUpdate -6728269292270643842 127.0.0.1
+83.7197156: SyncUpdate -6728269292270643842 127.0.0.1
+83.8055484: SyncUpdate -6728269292270643842 127.0.0.1
+83.9071984: SyncUpdate -6728269292270643842 127.0.0.1
+84.0094943: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+84.0260843: SyncUpdate -6728269292270643842 127.0.0.1
+84.0772803: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+84.1452921: SyncUpdate -6728269292270643842 127.0.0.1
+84.2640389: SyncUpdate -6728269292270643842 127.0.0.1
+84.3792414: SyncUpdate -6728269292270643842 127.0.0.1
+84.4981081: SyncUpdate -6728269292270643842 127.0.0.1
+84.6174785: SyncUpdate -6728269292270643842 127.0.0.1
+84.7195643: SyncUpdate -6728269292270643842 127.0.0.1
+84.8381362: SyncUpdate -6728269292270643842 127.0.0.1
+84.9232927: SyncUpdate -6728269292270643842 127.0.0.1
+85.0082408: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+85.0422491: SyncUpdate -6728269292270643842 127.0.0.1
+85.0595128: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+85.1441249: SyncUpdate -6728269292270643842 127.0.0.1
+85.2641273: SyncUpdate -6728269292270643842 127.0.0.1
+85.3664188: SyncUpdate -6728269292270643842 127.0.0.1
+85.4683964: SyncUpdate -6728269292270643842 127.0.0.1
+85.5873649: SyncUpdate -6728269292270643842 127.0.0.1
+85.6893243: SyncUpdate -6728269292270643842 127.0.0.1
+85.7910525: SyncUpdate -6728269292270643842 127.0.0.1
+86.0124957: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+86.0632583: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+87.0156255: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+87.0666283: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+88.020597: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+88.0723323: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+89.0090875: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+89.0606256: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+89.1622582: SyncUpdate -6728269292270643842 127.0.0.1
+89.2643928: SyncUpdate -6728269292270643842 127.0.0.1
+89.3831401: SyncUpdate -6728269292270643842 127.0.0.1
+89.5021487: SyncUpdate -6728269292270643842 127.0.0.1
+89.6040117: SyncUpdate -6728269292270643842 127.0.0.1
+89.7233163: SyncUpdate -6728269292270643842 127.0.0.1
+89.8250983: SyncUpdate -6728269292270643842 127.0.0.1
+89.9293625: SyncUpdate -6728269292270643842 127.0.0.1
+90.0142082: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+90.0308959: SyncUpdate -6728269292270643842 127.0.0.1
+90.0669409: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+90.133976: SyncUpdate -6728269292270643842 127.0.0.1
+90.2530605: SyncUpdate -6728269292270643842 127.0.0.1
+90.3557389: SyncUpdate -6728269292270643842 127.0.0.1
+90.4752404: SyncUpdate -6728269292270643842 127.0.0.1
+90.5601993: SyncUpdate -6728269292270643842 127.0.0.1
+90.679258: SyncUpdate -6728269292270643842 127.0.0.1
+90.7820091: SyncUpdate -6728269292270643842 127.0.0.1
+90.8838629: SyncUpdate -6728269292270643842 127.0.0.1
+91.0027719: SyncUpdate -6728269292270643842 127.0.0.1
+91.01983: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+91.0705922: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+91.1050662: SyncUpdate -6728269292270643842 127.0.0.1
+91.2071355: SyncUpdate -6728269292270643842 127.0.0.1
+91.3267271: SyncUpdate -6728269292270643842 127.0.0.1
+91.4288862: SyncUpdate -6728269292270643842 127.0.0.1
+91.5478504: SyncUpdate -6728269292270643842 127.0.0.1
+91.6498938: SyncUpdate -6728269292270643842 127.0.0.1
+91.7519136: SyncUpdate -6728269292270643842 127.0.0.1
+91.8704375: SyncUpdate -6728269292270643842 127.0.0.1
+91.972724: SyncUpdate -6728269292270643842 127.0.0.1
+92.0246779: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+92.0764746: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+92.0927672: SyncUpdate -6728269292270643842 127.0.0.1
+92.177765: SyncUpdate -6728269292270643842 127.0.0.1
+92.2801704: SyncUpdate -6728269292270643842 127.0.0.1
+92.382237: SyncUpdate -6728269292270643842 127.0.0.1
+92.5010873: SyncUpdate -6728269292270643842 127.0.0.1
+92.6205568: SyncUpdate -6728269292270643842 127.0.0.1
+92.7408983: SyncUpdate -6728269292270643842 127.0.0.1
+92.8603124: SyncUpdate -6728269292270643842 127.0.0.1
+92.9446917: SyncUpdate -6728269292270643842 127.0.0.1
+93.0129572: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+93.0643173: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+93.0728381: SyncUpdate -6728269292270643842 127.0.0.1
+93.1705834: SyncUpdate -6728269292270643842 127.0.0.1
+93.2907728: SyncUpdate -6728269292270643842 127.0.0.1
+94.0239566: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+94.0749456: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+95.0131928: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+95.0810858: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+96.0024899: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+96.070627: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+97.0064667: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+97.0743947: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+98.0121812: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+98.0633202: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+99.0156921: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+99.0833484: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+100.0049944: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+100.0731426: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+101.0125238: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+101.0805699: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+102.0180529: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+102.0690414: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+103.0064331: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+103.0740107: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+104.0094012: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+104.0789953: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+105.0174765: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+105.0964072: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+106.0180604: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+106.0861501: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+107.0065194: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+107.0745298: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+108.0107386: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+108.0801869: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+109.0165147: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+109.0682: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+110.0209963: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+110.0728364: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+111.0091017: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+111.0656948: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+112.0181655: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+112.0692998: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+113.0236613: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+113.0612208: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+114.0298037: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+114.0640103: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+115.0010848: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+115.0691628: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+116.0043104: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+116.0718135: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+117.0081587: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+117.0588991: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+118.0111475: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+118.0622694: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+119.0159439: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+119.0832682: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+120.0013216: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+120.0693601: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+121.0070848: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+121.07464: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+122.0131849: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+122.0812732: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+123.0164148: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+123.0840951: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+124.0196037: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+124.0705313: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+125.006104: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+125.0743275: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+126.0101923: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+126.0785403: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+127.0146524: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+127.0825885: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+128.0184753: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+128.069808: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+129.0253774: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+129.0762934: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+130.01319: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+130.0814556: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+131.0203257: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+131.0712992: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+132.0256014: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+132.0599017: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+132.9968345: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+133.0652818: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+134.0019425: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+134.0694996: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+135.0083651: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+135.0772926: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+135.9982355: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+136.0855356: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+136.0980832: SyncUpdate -6728269292270643842 127.0.0.1
+136.1943644: SyncUpdate -6728269292270643842 127.0.0.1
+136.297276: SyncUpdate -6728269292270643842 127.0.0.1
+136.4161558: SyncUpdate -6728269292270643842 127.0.0.1
+136.51858: SyncUpdate -6728269292270643842 127.0.0.1
+136.638013: SyncUpdate -6728269292270643842 127.0.0.1
+136.757866: SyncUpdate -6728269292270643842 127.0.0.1
+136.8777325: SyncUpdate -6728269292270643842 127.0.0.1
+136.9801426: SyncUpdate -6728269292270643842 127.0.0.1
+137.0144633: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+137.0650718: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+137.0816702: SyncUpdate -6728269292270643842 127.0.0.1
+137.1837634: SyncUpdate -6728269292270643842 127.0.0.1
+138.0007445: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+138.0690061: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+139.0044353: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+139.0734722: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+140.0091346: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+140.0771238: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+141.0118511: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+141.0630591: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+142.0164975: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+142.067943: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+143.0146238: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+143.0743568: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+144.0100116: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+144.0613316: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+145.013598: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+145.081606: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+146.0189335: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+146.0696266: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+147.0070957: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+147.0582865: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+148.0104658: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+148.0620307: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+149.0153162: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+149.0832739: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+150.0192427: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+150.0699366: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+151.0235948: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+151.0754556: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+152.0160504: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+152.0832919: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+153.0215058: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+153.0554808: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+154.0154795: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+154.0663444: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+155.0010853: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+155.0695474: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+156.0050623: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+156.055997: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+157.0084855: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+157.07612: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+158.0120267: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+158.0799669: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+159.0016951: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+159.0531438: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+160.0144866: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+160.0650596: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+161.0014586: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+161.0692557: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+162.012581: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+162.0816776: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+163.0032997: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+163.0716412: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+164.0156139: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+164.0667186: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+165.0208972: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+165.0716608: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+166.0123947: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+166.0806793: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+167.020788: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+167.0716009: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+168.0128758: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+168.063658: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+169.0180201: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+169.0860075: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+170.0244391: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+170.0756479: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+171.0105103: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+171.0829964: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+172.0181027: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+172.0694253: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+173.0222277: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+173.0561544: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+174.0063523: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+174.0753463: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+175.0044393: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+175.0724034: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+175.9978157: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+176.0660769: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+177.0019641: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+177.0700099: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+178.0108084: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+178.0622411: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+179.0177806: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+179.0689462: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+180.0131709: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+180.0815395: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+181.0176003: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+181.0851322: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+182.0046651: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+182.0728918: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+183.0099128: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+183.0608501: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+184.0035179: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+184.0714113: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+185.0073193: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+185.0585467: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+186.0164692: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+186.0674412: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+187.0203724: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+187.0715719: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+188.0235282: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+188.0747596: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+189.0097613: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+189.0609529: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+190.0136594: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+190.0641395: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+191.0172234: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+191.0685256: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+192.0255567: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+192.0764929: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+193.0148643: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+193.0660779: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+194.0269509: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+194.0784592: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+194.9971439: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+195.0824664: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+196.0013664: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+196.0696003: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+197.005897: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+197.0739752: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+198.0114682: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+198.0796885: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+199.0002215: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+199.0682986: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+200.0106518: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+200.0618589: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+201.0140312: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+201.0649867: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+202.0063621: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+202.0572538: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+203.0095763: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+203.0607928: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+204.0106332: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+204.1375168: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+205.0199944: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+205.0706029: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+206.006631: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+206.0577876: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+207.0269082: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+207.0619458: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+208.0089093: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+208.0773592: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+209.016828: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+209.0688525: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+210.0225086: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+210.056601: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+211.0270722: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+211.0780644: RPC ServerOnly NetSyncId: -1 Function: GlobalChat( Dave, Test message )
+
+211.627302: Server shutdown
